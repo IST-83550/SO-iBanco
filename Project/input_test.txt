@@ -1,0 +1,7 @@
+creditar 1 100
+debitar 2 10
+lerSaldo 1
+lerSaldo 2
+transferir 1 2 20
+simular 1
+sair-terminal
