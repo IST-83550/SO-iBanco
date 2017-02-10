@@ -1,3 +1,3 @@
 # SO-iBanco
 IST - Operating Systems Project  
-esf
+Parallel Bank Application.
